@@ -1,0 +1,59 @@
+Computer Networks Lecture 1
+
+What is a Computer Network?
+
+- Goal: Provides service(s) that allow to send information from
+one host to another host.
+
+- Information: Data, Video, Voice, Sound, Graphics, ...
+
+- Service: 
+    - Network Infrastructure (hardware)
+    - Protocols (software)
+
+
+Overview:
+
+- Host/End-Systems run Network Applications
+
+- Switches/Routers/Nodes and Links connect End-Systems
+
+- End-Systems and Routers use Protocols to communicate
+    - FTP, TCP, IP
+
+- Services can be Connection-Oriented or Connectionless.
+
+
+Classification:
+
+- Scope of the Networks 
+    - Personal Area Networks (PAN)
+    - Local Area Networks (LAN)
+    - Metropolitan Area Networks (MAN)
+    - Wide Area Networks (WAN)
+
+- Transmission Technology
+    - Shard-Media-Broadcast Networks
+    - Switched Point-to-Point Networks
+
+- Switched Point-to-Point Networks
+    - Circuit-Switched Networks
+    - Packet-Switched Networks
+
+- Packet-Switched Networks
+    - Connection-Oriented (Virtual-Circuit Routing)
+    - Connectionless (Datagram Routing, Dynamic Routing)
+
+
+- Shared-Media-Broadcast Channels
+
+    - Pros: simple, cheap
+    - Cons: no scalability
+
+- Point-to-Point Network
+
+    - Switched Point-to-Point Networks
+        - Circuit-Switched -> Landline
+            - Pros: Quality of Service
+            - Cons: Inefficient
+        - Packet Switched -> 
