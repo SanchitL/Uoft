@@ -1,2 +1,31 @@
 Computers and Society Lecture 1
 
+Topic to Cover:
+- Ethics & Professional Ethics
+- Technological disruption
+- Environmental Impact of Digital Technology
+- Privacy and Technology
+- Postcolonial computing
+- Intellectual Property and Open Source
+- Democracy and social medial "filter bubbles"
+- Equity in CS 
+- System Failures, or "Pride goeth before the fall"
+
+Goals:
+
+- Prepare for multi-disciplinary decision making
+- Ethics, professional ethics.
+- Writing position papers
+    - Most projects start out as position papers
+- Debate a position, and rebut others' refutations.
+    - Learn important skills from formal debating
+- Understand intellectual property and privacy law
+    - provides context for development and trends
+- Explore social and environmental impact of computer Technology
+
+Skills:
+
+- Critical thinking
+- Communicating an argument
+- Write for a technology oriented audience
+- Elevator pitch
