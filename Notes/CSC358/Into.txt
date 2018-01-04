@@ -1,0 +1,32 @@
+Lecture 1:
+
+Website: www.cs.toronto.edu/~marbach/csc358_S18_1.html
+
+Scope:
+
+- How to use Computer Networks?
+- How do Today's existing Computer networks work?
+- Why do computer networks work the way they work?
+
+
+Important Questions:
+
+- Routing
+- Addressing
+- Reliable Data Transfer
+- Congestion Control
+
+Outline:
+
+- Introduction
+    - Layered Network Architecture
+- Reliable Data Transfer
+    - TCP
+- Queueing Theory
+    - Case study: Internet Telephony
+- Multiple-Access Protocols
+    - Ethernet, Wave LAN
+- Routing
+    - IP
+- Congestion Control
+    - TCP
