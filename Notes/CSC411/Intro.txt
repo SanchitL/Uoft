@@ -1,0 +1,16 @@
+Course Goals
+    - Learn the basic building blocks and the general principles
+    of designing machine learning algorithms
+
+        - Understand the mathematical ideas needed for understanding and designing
+        machine learning/neural networks algorithms.
+
+    - Learn basic machine learning algorithms
+
+    - Learn the methodology of applying machine learning algorithms 
+    to data and evaluate their performance
+
+    - Apply the principles of machine learning in the context of neural 
+    networks and reinforcement learning.
+
+    
