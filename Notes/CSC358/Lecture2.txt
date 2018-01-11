@@ -1,0 +1,93 @@
+-----------------
+Computer Networks
+-----------------
+
+Sessions
+
+- Interactive: Short messages, small delay, high reliability
+- File Transfer: Long messages, moderate delay, high reliability.
+- Digitized Voice: Short Messages, fixed small delay. moderate reliability
+- Web Traffic: Long messages, small delay, high reliability
+- Video: Long messages, fixed small delay. Requires broadcast and multicast capabilities.
+    -> Circuit switched
+
+How to Master Complexity?
+
+- Computer networks are very complex; many issuses to address:
+    - connection setup, message segmentation, multiplexing, routing, flow control, security, error control, 
+    encoding, addressing, ...
+- Useful method for dealing with complexity is using "modularity".
+    - break complex problem into simpler sub problem
+    - use "black box" abstraction for sub-problems
+
+Modularity for Computer Networks
+
+- Hierarchical Layering: THe type of functional modularity used for computer networks is hierarchical layering. What is special about this architecture is that it is distributed and connected through unreliable links with delays.
+- Example: Postal Service
+    - When I bring a letter to the post office, I don't know how it gets delivered from there. THe office clerk doesn't know the exact details either, and so on.
+
+
+Layered Network Architecture
+
+Application Layer
+------------------
+Transport Layer
+-----------------
+Network Layer
+-----------------
+Data Link Layer
+-----------------
+Physical Layer
+-----------------
+
+There are several ways to define a layered network architecture.
+
+Application Layer
+
+- Service: Supports applications
+- Task: 
+    - connection setup
+    - flow control
+    - error control
+
+- Protocols: HTTP to support Web
+- Location: local file system
+
+Transport Layer
+
+- Service: Prepares messages for being transported over the network.
+- Task: 
+    - Message fragmentation and reassembly
+    - Flow control
+    - Congestion control
+    - Error control
+    - Connection setup
+- Protocols: TCP, UDP
+- Location: End Systems/Hosts
+
+Network Layer
+
+- Service: Sends data units over the network
+- Taks: 
+    - routing
+    - addressing
+    - congestion control
+- Protocols: IP
+- Location: End System/Hosts + Routers
+
+Data Link Layer
+
+- Service: Sends data units over a links
+- Tasks: 
+    - Framing
+    - Error
+    - Retransmissions
+- Protocols: ARQ: CSMA/CD for Ethernet and wave Layering
+- Location: End System/Hosts + Routers
+
+Physical Layer
+
+- Service: Sends bits over a links
+- Task: 
+    - Modem (Modulator/Demodulator)
+- Location: End Systems/Host + Routers
